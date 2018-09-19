@@ -286,7 +286,7 @@ All that said, working at a guild-related profession without being a member of t
   style='width:725px' />
   
 <center>_Waterdeep at Night_</center>
-<div>
+</div>
 \page
 # The Wards of Waterdeep
 Newcomers to the city of Waterdeep are often confused by the importance that Waterdavians give to wards. In other cities, such as Baldur’s Gate and Neverwinter, districts are bounded by rivers or walls. But in Waterdeep, one can traverse from ward to ward by crossing a street — a fact that offers the drivers of hire-coaches some amusement when an ignorant tourist requests a ride to an adjacent ward.
@@ -533,7 +533,8 @@ This is perhaps the most famous walking statue in the city, thanks to its dramat
 
 All about the statue, climbing up its chest and on its knee and shoulders, is a tenement that carries the name “the God Catcher.” The tenement’s landlord is Aundra Blackcloak, an unsociable sorcerer who is rarely seen in the city except when she alights from the door carved in the floating sphere, which serves as her home. On the rare occasions when she wants to meet with city folk (typically to purchase odd substances for magical purposes), she appears unannounced on balconies or rooftops after dark. Her dealings are polite, though, and she pays fair coin. She never confides in anyone or talks about her own doings — and if anyone but she has ever seen the inside of her spherical home, they’ve said nothing publicly about it.
 
-
+````
+````
 
 
 #### The Griffon
@@ -638,6 +639,9 @@ Sornyn is a festival of both Waukeen and Lathander, and is used for planning bus
 #### Flamerule 7: Lliira’s Night
 Originally a celebration held only in Waterdeep, this holiday has since spread up and down the Sword Coast. It has received a recent boost in popularity from the custom started in Baldur’s Gate of lighting celebratory smokepowder fireworks — all purchased from Felogyr’s Fireworks of that city, and utilized only by the City Guard, of course. This nightlong festival honors the Lady of Joy with dances and balls throughout the city. Pink beverages, ranging from healthy juices to deadly strong intoxicants, are imbibed. The boom and crackle of smokepowder explosions go off all night long, so you might as well stay up with the locals and enjoy the show.
 
+```
+```
+
 #### Eleasis 1: Ahghairon’s Day
 Many small rituals are held throughout this day, dedicated to honoring the first Open Lord. The Lords of Waterdeep toast Ahghairon and the Watchful Order, and guildmasters toast the Lords in Ahghairon’s name. Commoners leave violets (Ahghairon’s favorite flower) around Ahghairon’s Tower, on his statue in the City of the Dead, and atop the altars of the House of Wonder. Bards perform songs in honor of the wizard all over the city. The Open Lord visits taverns and inns throughout Waterdeep to wish the people well — giving short speeches, offering toasts to Ahghairon’s memory, buying rounds of drinks, or paying for meals or accommodation. Needless to say, establishments of those sorts are generally full throughout the day.
 
@@ -666,6 +670,9 @@ Swift on the heels of Stoneshar comes the Reign of Misrule. This day honors Besh
 This holiday observes the anniversary of the end of the Godswar in 1358 DR, when the gods of Faerûn returned to the heavens. Private shrines are brought out into the open, and many people wear holy symbols of their favored deities. A Gods’ Day tradition in Waterdeep strictly limits the use of magic, in remembrance of the wild magic wrought during the Time of Troubles. Though not outlawed fully, spellcasting is allowable only in self-defense or in cases of extreme need.
 
 At night, this holiday becomes solemn and serious, as many Waterdavians offer prayers in thanks for the lives they have under their gods. The Griffon Cavalry sets up an immense bonfire at the peak of Mount Waterdeep, honoring the fallen and the risen gods Myrkul, Cyric, Kelemvor, Mystra, Helm, and Ao who appeared here. In thanks for their defense during Myrkul’s invasion and the resulting fires that raged through the Southern, Dock, and Castle Wards, Gods’ Day is also a semiofficial “Be Kind to the Guard and Watch Day” in Waterdeep. Feel free to participate by handing out small gifts and kind words, but be aware that any gift of greater value than a few nibs might be interpreted as a bribe.
+
+```
+```
 
 #### Marpenoth 30: Liar’s Night
 This holy day pays tribute to Leira and Mask. To placate those deities and ward away their attention, folk of all walks of life don masks and costumes (magical or mundane) to disguise themselves and play at being other than what they are. Commonly seen mask styles include the black mask symbol of Mask and the mirror face of the priests of Leira. But there are no bounds on the disguise you don, and the more elaborate and outlandish it is, the more celebrated the wearer.
