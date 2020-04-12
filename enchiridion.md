@@ -247,12 +247,13 @@ Above all, be polite. Always address a known noble as “Lord” or “Lady.” 
 
 If you’re not certain whether someone is a noble, address the gentleman as “Saer” or the gentlewoman as “Goodwoman.” Neither will give offense, and generally a noble will politely correct you as to their actual title.
 \page
+
 >#### A WONDROUS PEOPLE
-
+>
 >Whenever you find yourself in a bustling city, you’re likely to spot a wonderful variety of folk. You hear words in languages utterly foreign to you, and you smell dishes both delectable and strange. Waterdeep is the ultimate city of such delights, and before long, the alien thing becomes familiar to you, and the stranger becomes your friend.
-
+>
 >The people of Waterdeep are among the greatest of its splendors. Fashion, comportment, love — these things are practiced with an art and a zest in the city uncommon elsewhere. Visit a festhall or festival and see for yourself! And don’t miss the cross-dressing performers who regale audiences with humor and song. Fabulous — that word doesn’t begin to describe it, especially when they enhance the merriment with magic.
-
+>
 >The city is also a haven for those who define for themselves what it means to be a man or a woman, those who transcend gender as the gods do, and those who redefine entirely who they are. What confidence! I never tire of witnessing it. I have seen folk in Waterdeep whose lives are more magical than the marvels possible with spells.
 
 ### Nobles and Patronage
