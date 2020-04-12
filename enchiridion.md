@@ -157,6 +157,8 @@ Small squads head out from the watch posts on daily and nightly rounds of the ci
 
 City Watch members follow a strict code of conduct that makes them one of the most trusted police forces aside from paladin-patrolled Elturgard. As long as you don’t engage in unlawful behavior, you can expect to be left untroubled by the Watch.
 
+<br>
+
 >### WATCH TALK
 >
 >Members of the City Watch employ a sort of slang in dealing with the public. As a visitor, it behooves you to know what they mean.  <br><br>
@@ -314,7 +316,7 @@ If you’re not certain whether someone is a noble, address the gentleman as “
 
 \page
 
->#### A WONDROUS PEOPLE
+>### A WONDROUS PEOPLE
 >
 >Whenever you find yourself in a bustling city, you’re likely to spot a wonderful variety of folk. You hear words in languages utterly foreign to you, and you smell dishes both delectable and strange. Waterdeep is the ultimate city of such delights, and before long, the alien thing becomes familiar to you, and the stranger becomes your friend.
 >
@@ -381,18 +383,21 @@ Each ward has its own history, legends, and traditions based around who lived th
 
 These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you’re sure to see some version of this display of civic spirit.
 
->#### SPEAK LIKE A NATIVE
+<br>
+
+>### SPEAK LIKE A NATIVE
 >
 >The many idioms and slang expressions of Waterdavians would take a whole book to explore, but here I explain a few that might otherwise mystify.<br>  
 >##### “Dabbler but no master” and “No mastery blazing forth”
 >These idioms trace their origin to Ahghairon, who early on in his studies of magic humbly said, “I am no wizard. I am a dabbler but no master of magic; it seems no mastery burns within me.” Both now serve as expressions of false modesty applied to any skill or craft, not just magic use.
->##### “Sharpjaws,” “fastfists,” “bullyblades,” and “alleyblades”
->Those who boast of martial skill but who shrink from violence or lack real ability are “sharpjaws.” In sharp contrast are Waterdeep’s “fastfists” (any lout easily provoked to violence), “bullyblades” (battle-hardened mercenaries hired as muscle), and “alleyblades” (muggers and thieves)
 
-<br>
+```
+```
 
 >#### SPEAK LIKE A NATIVE
 >_(continued)_
+>##### “Sharpjaws,” “fastfists,” “bullyblades,” and “alleyblades”
+>Those who boast of martial skill but who shrink from violence or lack real ability are “sharpjaws.” In sharp contrast are Waterdeep’s “fastfists” (any lout easily provoked to violence), “bullyblades” (battle-hardened mercenaries hired as muscle), and “alleyblades” (muggers and thieves)
 >##### “Longride” and “Last ride”
 >To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is “longride,” and dusk is “last ride.”<br><br>
 >##### “Which the greater thief?”
@@ -598,6 +603,7 @@ Tales of this legendary dungeon below Waterdeep are told well by many in the cit
 
 Beneath the plateau of Waterdeep lies the largest and deepest dungeon in the world. It sprawls out under the city, said to plunge as many as twenty levels deep. The Melairkyn dwarves first excavated the tunnels that would become Undermountain, and the drow are said to have dug their own tunnels up from below. All were claimed, altered, and expanded by the mad wizard Halaster and his apprentices — who are believed to dwell in the dungeons to this day. What drove them deep into the earth remains a mystery, but Undermountain’s allure is a siren song that still draws many. If you want to see adventurers descend into the depths, or perhaps glimpse some returning with wondrous treasures, visit the Yawning Portal in the Castle Ward.
 
+<br>
 
 <div class='descriptive'>
 ### THE WONDERS OF THE WAYMOOT
@@ -715,7 +721,7 @@ The head of the Swordmaiden sits in a stand of tall trees in the center of the b
 
 \page
 
->#### INFAMOUS ALLEYS
+>### INFAMOUS ALLEYS
 >
 >Waterdeep has as many alleys as Baldur’s Gate has cats, and each has a name and a story. Here are a few that you might wish to see — or should know to avoid.<br>
 >_Ruid’s Stroll._ This short avenue from Caravan Court to the Trollwall in the Southern Ward is haunted by the hooded ghost of the mage Ruid, whose touch causes deathly chills to those he meets on foggy nights. All attempts to banish or turn the spirit have failed. Those who brave its unearthly approach and allow Ruid to pass through them learn a secret truth about someone or something in their life — if they survive.<br>
