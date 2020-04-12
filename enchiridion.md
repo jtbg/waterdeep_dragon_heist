@@ -38,10 +38,15 @@ If you approach by air, expect a vigorous pursuit by and confrontation with the 
 ### Your Arrival in the City
 The splendors that await you in Waterdeep are legendary. Each of the city’s wards is detailed in this work, telling you what to expect depending on where you are, as well as what thrilling things you might see and do. Before that, however, there are the small matters of knowing something of the history of the place you visit, and of understanding how to comport yourself in the Sword Coast’s grandest metropolis.
 \page
+
+<br>
+
 # A Long History (in Brief)
 >“There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.”  
 — _Ahghairon, the first Open Lord of Waterdeep,  
 circa 1032 DR_
+
+<br>
 
 People have inhabited the plateau upon which Waterdeep stands for longer than human histories record. But as is the way across the dangerous North, civilization at the foot of Mount Waterdeep has crested and ebbed in great waves. Elf scholars assure me that it was once the site of Aelinthaldaar, the capital of their ancient empire of Illefarn. So it was already a glorious place when a dwarf prospector named Melair discovered mithral beneath the mountain. In agreement with the Illefarni, Melair called kith and kin to mine under the mountain and in the plateau, and thus Clan Melairkyn came to rule below as the Illefarni did above.
 
