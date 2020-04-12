@@ -668,7 +668,8 @@ Such talk inevitably leads to discussions of politics, wars, and the intentions 
 #### Alturiak 14: The Grand Revel
 Led by the clergy of Sune, Sharess, and Lliira, the Grand Revel is a day of dancing, music, and the consumption of sweet treats of all kinds, from chocolate to red firemint candies. Although some of the dancing is wanton and performed for show, large-scale ring dances in the street for all ages are also popular. All the dancing ends at dusk, after which bards and minstrels perform at “love feasts” for families. Couples — or those desiring to become couples — slip away together to kiss, exchange promises, and trade small tokens of affection (often rings blessed by clergy with prayers of faithfulness). Even if you have no paramour, indulge a little in the dance and food of this fine tradition. The night might be cold, but your heart will be warmed.
 
-Ches 1: Rhyestertide
+
+#### Ches 1: Rhyestertide
 This holiday is named in honor of Lathander’s first prophet, Rhyester, a young blind boy who was cured of that blindness by the dawn’s light on this day more than seven centuries ago. That holy event occurred in the vicinity of Silverymoon, but Lathander has long had a much larger temple in Waterdeep, and a following to match. Each of the faithful dons bright garb of sunrise hues and keeps one eye covered until the next dawn in honor of Rhyester. If you want to feel like a local, catch the eye of any celebrant you see and wink. Fine friendships have grown from far less.
 
 \page
@@ -723,7 +724,8 @@ This day commemorates the birth of the city. The Field of Triumph is the site of
 
 Once banned as frivolous and distracting, the practice of veiling Castle Waterdeep with an illusion has been reinstated. Several mages come together to produce the effect, which seemingly transforms the castle into the ancient log fortress of Nimoar. The illusion typically lasts from midday to sunset (unless someone has the audacity and magical might to dispel it) and is regarded as a stunning work of magical art.
 
-Flamerule 3–5: Sornyn
+
+#### Flamerule 3–5: Sornyn
 Sornyn is a festival of both Waukeen and Lathander, and is used for planning business, making treaties and agreements, and receiving envoys from unknown lands and traditional foes. Much wine is drunk over this three-day occasion when, as the saying goes, “My enemy is like family to me.” If you are a newcomer to the city, this time is an excellent opportunity for you to engage with new partners in business or to gain financial support for some endeavor. My agreement to write Volo’s Guide to Waterdeep was signed on a warm Sornyn evening many years ago, so who knows where your own initiative will take you?
 
 
@@ -795,12 +797,14 @@ If you’re lucky, you might see the Wand of the Four Moons weep. Droplets said 
 #### Uktar 20: Last Sheaf
 Sometimes called “The Small Feast,” this day of residential feasting is held in celebration of the year’s bounty. Small gifts (traditionally hand kegs of ale, jars of preserves, or smoked fish and meats) are exchanged among neighbors, and “last letters” are gathered for carriage by ship captains and caravan merchants — so called because they are the last to leave the city before travel becomes difficult. Of Waterdeep’s many celebrations, this one is perhaps the most relaxed and relaxing. Plan to spend a little extra on good food and enjoy a meal with those nearest you, be they dearest hearts or the folk across the hall in the inn.
 
-Nightal 11: Howldown
+
+#### Nightal 11: Howldown
 In honor of Malar, members of the City Guard leave the city in groups on this day to hunt down known threats to farmers and travelers, including brigands, wolves, owlbears, ogres, and trolls that haunt the roads and wilderness. These hunts typically last no longer than a tenday. During the same span of time, the City Watch engages in its own rigorous hunt for malefactors within the city walls. If you’ve any reason to doubt your standing in the eyes of the law, avoid Waterdeep for at least a tenday after Howldown.
 
 With no real hunting to do of their own, the children of Waterdeep spend Howldown engaging in mock hunts of adults dressed up as monsters, and play at the killing of these predators.
 
-Nightal 20: Simril
+
+#### Nightal 20: Simril
 When dusk comes on this day, folk go outside to locate particular stars that were lucky for their ancestors, or that were associated with their own births. They then attempt to stay up through the night, celebrating outside with bonfires, song, and warmed drinks. Cloudy nights often draw larger crowds than clear ones, since glimpsing your star through the haze is thought to be a blessing from Tymora. Inside buildings, service folk keep roaring fires and engage in making food to keep celebrants fed throughout the long night and into morning of the next day. If you have no particular star of your own, you’ll find many vendors of star maps willing to divine which is yours — based upon your place and date of birth — and to point you in the right direction for a shard or two.
 
 
