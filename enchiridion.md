@@ -901,5 +901,11 @@ When dusk comes on this day, folk go outside to locate particular stars that wer
 Well, gentle readers, you’ve reached the end of my enchiridion. If you’ve yet to arrive in the city, its splendors await you. If you’re reading this within its walls, please set aside this chapbook to experience the city. You might even see an extraordinarily handsome author hard at work reviewing one of Waterdeep’s drinking establishments. If you do so, I greet you in advance: “Well met! Autographs cost seven nibs.”
 
 
+## Appendix
+
+### Other Formats
+In case you only have this PDF, you can also go to [GitHub to grab the source for this PDF](https://github.com/drunken-economist/waterdeep_dragon_heist).
+
+
 <div class='pageNumber'>24</div>
 <div class='footnote'>PART 5 | THE CITY'S SPLENDORS</div>
