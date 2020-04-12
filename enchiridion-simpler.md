@@ -158,7 +158,6 @@ Those who have no fixed residence can still be taxed if they are confronted in a
 
 Waterdeep also raises revenue by charging other fees, such as the following:
 
-| |  |
 |:----|:-------------|
 | 1 nib/day | rental of a stall in the Market |
 | 1 shard  | per conviction by a magister |
@@ -296,10 +295,9 @@ All that said, working at a guild-related profession without being a member of t
 <div class='wide'><img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/340/850/559/9006.png'
   style='width:725px' />
-
-<center>_Waterdeep at Night_</center>
 </div>
 
+_Waterdeep at Night_
 
 
 # The Wards of Waterdeep
@@ -348,7 +346,7 @@ I hesitate to mention a last location in the Sea Ward, and I will not reveal whe
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/341/850/558/9007.png'
   style='width:325px;margin:10px 0px 0px 0px' />  
 
-<center>_Swift Justice_</center>
+_Swift Justice_
 
 
 ### North Ward
@@ -395,7 +393,8 @@ Though not quite as large as the castle, the palace is far more comfortable and 
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/342/850/583/9008.png'
   style='width:325px;margin:10px 0px 0px 0px' />
-<center>_The stately, clean, and well-defended Castle Ward_</center>
+
+_The stately, clean, and well-defended Castle Ward_
 
 <br>
 
@@ -463,7 +462,8 @@ One of the cemetery’s most impressive attractions is the Warriors’ Monument.
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/343/850/546/9009.png'
   style='width:325px;margin:10px 0px 0px 0px' />
-<center>_City of the Dead_</center>
+
+_City of the Dead_
 
 
 ### Outside the City Proper
@@ -532,7 +532,9 @@ Riders of the Griffon Cavalry are trained to stay above the rooftops, not becaus
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/344/850/565/9010.png'
   style='width:325px;margin:10px 0px 0px 0px' />
 
-<center>_Griffon Cavalry on Patrol_</center><br>
+_Griffon Cavalry on Patrol_
+
+<br>
 
 
 ## The Walking Statues
@@ -579,13 +581,10 @@ This statue appears virtually identical to the Honorable Knight, except for its 
 The head of the Swordmaiden sits in a stand of tall trees in the center of the block of the North Ward bounded by Hassantyr’s Street, Tarsar’s Street, Whaelgond Way, and Ussilbran Street. The center of its jaw and mouth have been replaced by a door, which leads into the shop known as Thort’s Findings. Undevvur Thort is a wizened ex-adventurer who leans on a cane (which some locals insist is more than just a cane). He lives in the small shop, whose many levels, staircases, and landings fill the hollowed-out interior of the head, and which is crammed with oddments sold to Thort by adventurers and other travelers. These items bear little placards in Thort’s beautiful, flowing handwriting that identify them (or at least provide speculation as to their origin and purpose). Nobles and wealthy merchants who desire props for themed revels often rent some of Thort’s wares as decoration — and many sages, alchemists, and wizards visit him regularly in search of potentially useful items.
 
 
-<div class='wide'>
-<img
-  src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/345/850/578/9011.png'
-  style='width:640px;margin:0px 0px 0px 25px'
-  width='full'/>
-<center>_The God Catcher looking on in the background_</center>
-</div>
+
+<img src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/345/850/578/9011.png'  style='width:640px;margin:0px 0px 0px 25px'  width='full'/>
+
+_The God Catcher looking on in the background_
 
 
 >#### INFAMOUS ALLEYS
@@ -689,7 +688,8 @@ The imaginative inventions of the Gondar are revealed on this day and paraded th
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/346/850/555/9012.png'
   style='width:325px;margin:10px 0px 0px 0px' />
-<center>_Day of Wonders_</center>
+
+_Day of Wonders_
 
 
 #### Marpenoth 7: Stoneshar
