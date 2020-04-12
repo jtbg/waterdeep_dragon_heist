@@ -158,6 +158,7 @@ Those who have no fixed residence can still be taxed if they are confronted in a
 
 Waterdeep also raises revenue by charging other fees, such as the following:
 
+| Fee | Service or Occasion |
 |:----|:-------------|
 | 1 nib/day | rental of a stall in the Market |
 | 1 shard  | per conviction by a magister |
