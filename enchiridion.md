@@ -904,7 +904,7 @@ Well, gentle readers, you’ve reached the end of my enchiridion. If you’ve ye
 ## Appendix
 
 ### Other Formats
-In case you only have this PDF, you can also go to [GitHub to grab the source for this PDF](https://github.com/drunken-economist/waterdeep_dragon_heist).
+In case you only have this PDF, you can also go to [GitHub to grab the source for this PDF or a simpler formatted text version (in case this text is too small)](https://github.com/drunken-economist/waterdeep_dragon_heist).
 
 
 <div class='pageNumber'>24</div>
