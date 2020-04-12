@@ -124,7 +124,7 @@ Small squads head out from the watch posts on daily and nightly rounds of the ci
 City Watch members follow a strict code of conduct that makes them one of the most trusted police forces aside from paladin-patrolled Elturgard. As long as you don’t engage in unlawful behavior, you can expect to be left untroubled by the Watch.
 
 >### WATCH TALK
-
+>
 >Members of the City Watch employ a sort of slang in dealing with the public. As a visitor, it behooves you to know what they mean.  <br><br>
 >“What befalls?” means “Someone tell me what’s going on here.”<br><br>
 >“Hold!” means “Don’t move a muscle.”<br><br>
