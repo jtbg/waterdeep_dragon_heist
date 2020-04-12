@@ -163,9 +163,9 @@ Members of the Watchful Order are expected to render service to the city when ca
 Members of the Watchful Order form a more or less sociable association in the city, working together to keep an eye on any spellcasters who opt not to join their guild. Any havoc caused by a spellcaster in Waterdeep risks drawing the wrath of the Lords of Waterdeep — so it behooves the Watchful Order to watch all its members.
 
 \page
+
+
 ## Coinage
-
-
 As should be expected of any city of standing, Waterdeep mints its own coins. All taxes, fines, and guild fees must be paid either in Waterdavian coin or the currency of any member settlement of the Lords’ Alliance. Though no law requires you to pay for goods or services in Waterdavian coin, the drudgery of weighing foreign currency and checking its purity prompts many retailers and operators of swift-exchange businesses — including drays and hire-coaches — not to accept anything but coins minted in Waterdeep.
 
 Though you can trade your coinage for Waterdeep currency with anyone willing to do so, the exchequers at the Palace of Waterdeep make exchanges with no associated fee. The queue there can be quite long, necessitating that you make an appointment — often a day or more in advance. For a swifter transaction, I recommend any member of the Guild of Trusted Pewterers and Casters, or of the Jewelers’ Guild. Both have the most reliable scales and abide by guild-wide rates of exchange.
@@ -349,7 +349,7 @@ Each ward has its own history, legends, and traditions based around who lived th
 These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you’re sure to see some version of this display of civic spirit.
 
 >#### SPEAK LIKE A NATIVE
-
+>
 >The many idioms and slang expressions of Waterdavians would take a whole book to explore, but here I explain a few that might otherwise mystify.<br>  
 >##### “Dabbler but no master” and “No mastery blazing forth”
 >These idioms trace their origin to Ahghairon, who early on in his studies of magic humbly said, “I am no wizard. I am a dabbler but no master of magic; it seems no mastery burns within me.” Both now serve as expressions of false modesty applied to any skill or craft, not just magic use.
