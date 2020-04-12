@@ -1,5 +1,3 @@
-(homebrewry link: https://homebrewery.naturalcrit.com/share/ByZ1wQltX)
-
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
