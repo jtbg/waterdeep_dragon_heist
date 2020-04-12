@@ -5,8 +5,7 @@
 <div class='wide'>
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/335/850/1218/9001.png'
-  style='width:100%'
-  amrgin='none'/>
+  style='width:100%;margin:0px 0px 0px 0px'/>
 </div>
 
 \page
@@ -39,9 +38,11 @@ If you approach by air, expect a vigorous pursuit by and confrontation with the 
 The splendors that await you in Waterdeep are legendary. Each of the city’s wards is detailed in this work, telling you what to expect depending on where you are, as well as what thrilling things you might see and do. Before that, however, there are the small matters of knowing something of the history of the place you visit, and of understanding how to comport yourself in the Sword Coast’s grandest metropolis.
 \page
 
-<br>
 
 # A Long History (in Brief)
+
+<br>
+
 >“There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.”  
 — _Ahghairon, the first Open Lord of Waterdeep,  
 circa 1032 DR_
@@ -85,11 +86,12 @@ During this period, the powerful magical fields that protect and affect Waterdee
 After the Spellplague came the Sundering. Elf scholars insist on calling it the Second Sundering, asserting that the creation of Evermeet thousands of years ago was a similar happening. Regardless of the name you give it, the event that unfolded beginning in 1482 DR was the result of another world — called Abeir, I am told — passing again into our own. The gods were once more cast into the mortal realm, this time embodied in mortal beings known as Chosen. The old troublemaker Ao seems to be the cause of it all, though why he chose to cast down the gods was a matter of dispute even among those entities while they were with us.
 
 Apparently, all of this was foreseen by Waterdeep’s legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, Laeral Silverhand — now the Open Lord of Waterdeep — and a handful of others that the world was saved. According to Elminster, Ao remade the _Tablets of Fate_ as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
-<br><br>
+
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/336/850/545/9002.png'
-  style='width:325px'
+  style='width:325px;margin:10px 0px 0px 0px'
 />
+
 _The Sea Maidens Faire parade_
 
 \page
@@ -105,7 +107,8 @@ Waterdeep has a complex library of law and custom set by precedent, the main bod
 
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/4/337/9003.png'
-  style='width:325px' />
+  style='width:325px;margin:10px 0px 0px 0px'/>
+
 ```
 ```
 
@@ -181,9 +184,12 @@ In times of trouble, direct taxes can also be imposed:
 * A **wall tax** or harbor tax (usually 1 dragon per household) raised to directly pay for needed repairs or expansions  
 * A **lance** tax raised to provide a payroll for mercenaries hired by the city when required (usually 1 shard per household each tenday until the Lords repeal the tax)
 
+```
+```
+
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/4/338/9004.png'
-  style='width:325px' />
+  style='width:325px;margin:20px 0px 0px 0px' />
 \page
 ## Getting About
 Perambulating is the superior manner of experiencing the city and all its splendors. But if you’ve come with your own conveyance, the weather is inclement, or some other reason drives you to use the roads, the following are facts you need to know.
@@ -209,6 +215,8 @@ Proud Mount Waterdeep provides a useful landmark for general orientation. It sta
 
 One of Waterdeep’s titanic walking statues, no longer mobile, offers another way to orient yourself on a local scale. At nine stories tall, twice the height of any buildings nearby, the Honorable Knight stands guard in a block of buildings between Snail Street and the Way of the Dragon. Positioned as it is nigh the place where four wards meet, you can use it to judge where you stand. If it is south and west of your position, you are in the Trades Ward. North and west? The Southern Ward. South and east? The Castle Ward. North and east? You’re in the Dock Ward.
 
+<br>
+
 >### THE UNFLAPPABLE WATERDAVIAN
 >
 >**Natives of the City of Splendors are notoriously slow to take offense.** A Waterdavian plainly states their feelings as a warning, so that one is apt to hear “I don’t find that amusing, friend,” said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance (“He was too stupid to realize I insulted him!”). For those who act on such misjudgments, however, surprise and regret are the usual results.
@@ -220,7 +228,7 @@ One of Waterdeep’s titanic walking statues, no longer mobile, offers another w
 <div class='wide'>
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/4/339/9005.png'
-  style='width:600px'
+  style='width:600px;margin:0px 0px 0px 25px'
   width='full'/>
 </div>
 
@@ -260,6 +268,8 @@ If you’re not certain whether someone is a noble, address the gentleman as “
 >The people of Waterdeep are among the greatest of its splendors. Fashion, comportment, love — these things are practiced with an art and a zest in the city uncommon elsewhere. Visit a festhall or festival and see for yourself! And don’t miss the cross-dressing performers who regale audiences with humor and song. Fabulous — that word doesn’t begin to describe it, especially when they enhance the merriment with magic.
 >
 >The city is also a haven for those who define for themselves what it means to be a man or a woman, those who transcend gender as the gods do, and those who redefine entirely who they are. What confidence! I never tire of witnessing it. I have seen folk in Waterdeep whose lives are more magical than the marvels possible with spells.
+
+<br>
 
 ### Nobles and Patronage
 Nobles in Waterdeep are patrons of and investors in all manner of businesses in the city and abroad, as well as the many expressions of the arts. They spend coin to fund celebrations, contests at the Field of Triumph, upkeep at the city’s temples and shrines, civic projects, guild events, and charitable actions such as burial of the unknown dead. Their motives are manifold, but their actions — no matter the reason — earn them loyalty and high regard from those who benefit from their largesse.
@@ -344,10 +354,9 @@ Two parks in the Sea Ward might also be worth your time. The Shrines to Nature, 
 
 I hesitate to mention a last location in the Sea Ward, and I will not reveal where to find it, for reasons that will soon become apparent. There is a house in the Sea Ward without windows or doors. You can’t see it from the street, and those who live near it will not speak of it to others. You’ll know you are near it when you see blue tiles on the streets and walls leading into an alley that passes under the surrounding buildings. At night, these tiles glimmer dimly with the blue light of foxfire. More than one route leads into the Blue Alley, as this place is known, but there are precious few ways out. Most who enter don’t come back. If you see blue tiles, turn around and walk away before it is too late.
 
-
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/341/850/558/9007.png'
-  style='width:325px' />  
+  style='width:325px;margin:10px 0px 0px 0px' />  
 
 <center>_Swift Justice_</center>
 
@@ -394,8 +403,10 @@ Though not quite as large as the castle, the palace is far more comfortable and 
 
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/342/850/583/9008.png'
-  style='width:325px' />
-<center>_The stately, clean, and well-defended Castle Ward_</center><br>
+  style='width:325px;margin:10px 0px 0px 0px' />
+<center>_The stately, clean, and well-defended Castle Ward_</center>
+
+<br>
 
 
 Many other buildings in the ward are given over to city business, including several courts for magisters and the barracks of the City Guard. So many of the ward’s structures are offices and meeting halls for business owners, solicitors, publishers, and the like that the Castle Ward has the smallest resident population of all the wards.
@@ -460,10 +471,9 @@ Those who can afford it memorialize the departed with sculptures, making the Cit
 
 One of the cemetery’s most impressive attractions is the Warriors’ Monument. This intricate, sixty-foot-high sculpture depicts a circle of women and men striking down trolls, orcs, hobgoblins, bugbears, and barbarians, all of which are falling backward and outward around the warriors. Above all of them, a flying griffon rider spears a skeletal knight whose breastplate bears the symbol of Myrkul, god of the dead. But this statue is also a fountain, and the wounds on these combatants gush water! Don’t try to imagine it — just go see it. And see it as Waterdavians do: pack a midday feast, have a picnic, and then take a stroll through the beauty of the place.
 
-
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/343/850/546/9009.png'
-  style='width:325px' />
+  style='width:325px;margin:10px 0px 0px 0px' />
 <center>_City of the Dead_</center>
 
 \page
@@ -527,7 +537,7 @@ Riders of the Griffon Cavalry are trained to stay above the rooftops, not becaus
 
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/344/850/565/9010.png'
-  style='width:325px' />
+  style='width:325px;margin:10px 0px 0px 0px' />
 
 <center>_Griffon Cavalry on Patrol_</center><br>
 \page
@@ -572,10 +582,15 @@ This statue appears virtually identical to the Honorable Knight, except for its 
 
 The head of the Swordmaiden sits in a stand of tall trees in the center of the block of the North Ward bounded by Hassantyr’s Street, Tarsar’s Street, Whaelgond Way, and Ussilbran Street. The center of its jaw and mouth have been replaced by a door, which leads into the shop known as Thort’s Findings. Undevvur Thort is a wizened ex-adventurer who leans on a cane (which some locals insist is more than just a cane). He lives in the small shop, whose many levels, staircases, and landings fill the hollowed-out interior of the head, and which is crammed with oddments sold to Thort by adventurers and other travelers. These items bear little placards in Thort’s beautiful, flowing handwriting that identify them (or at least provide speculation as to their origin and purpose). Nobles and wealthy merchants who desire props for themed revels often rent some of Thort’s wares as decoration — and many sages, alchemists, and wizards visit him regularly in search of potentially useful items.
 
+
+<div class='wide'>
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/345/850/578/9011.png'
-  style='width:325px' />
-<center>_The God Catcher looking in the background_</center><br>
+  style='width:640px;margin:0px 0px 0px 25px'
+  width='full'/>
+<center>_The God Catcher looking on in the background_</center>
+</div>
+
 \page
 >**INFAMOUS ALLEYS**
 
@@ -660,10 +675,9 @@ On this day, the City Guard, the City Navy, and the City Watch — all in glitte
 #### Marpenoth 3: Day of Wonders
 The imaginative inventions of the Gondar are revealed on this day and paraded through the city. These devices range from something as humble as new cabinet hinges to massive mechanical constructs that walk or roll about. Failure is the paramour of invention, though, meaning it is a rare year when there isn’t some notable disruption of the celebration. The flying chair of Marchell was one such recent oddity — a device that worked marvelously on the way up but was incapable of descending. Marchell was rescued by the Griffon Cavalry, but his flying chair drifted away and was never seen again.
 
-
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/346/850/555/9012.png'
-  style='width:325px' />
+  style='width:325px;margin:10px 0px 0px 0px' />
 <center>_Day of Wonders_</center>
 
 \page
