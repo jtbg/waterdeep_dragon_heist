@@ -190,33 +190,36 @@ The city’s centuries-old layout dictates its traffic patterns today. Waterdeep
 
 The aforementioned boulevards, along with the Street of the Singing Dolphin in the Sea Ward, are the major arteries of the city. Hire-coaches and drays can be most frequently found on those streets, and traffic is at its most hectic there. Most other roads in the city run east to west, but regardless of their direction, traffic elsewhere is generally less hectic and thus safer to cross.
 
+### Traffic Wardens
+During particularly heavy traffic and at congested areas such as the great oval road around the Market, you might see a member of the City Watch serving as a traffic warden. Traffic wardens signal with small blue hand flags for traffic to proceed, and with yellow flags for traffic to hold. A traffic warden can often be heard blowing a whistle. When you hear it, look to the warden to see if you are being signaled. Failure to take care might result not only in accident but also arrest.
+
+```
+```
+
 ### Street Signs
 Thanks to the Scriveners’, Scribes’, and Clerks’ Guild, Waterdeep has a remarkable custom of labeling its streets, and even many of its alleyways and courts. The method of identification varies by ward and neighborhood (including brass plates, carvings in stone, and stencil-painted wooden signs), but street names are typically displayed on the corners of buildings at intersections, roughly a dozen feet above ground. The name of the road you travel on will be on the wall nearest, while the name of the crossing road will be around the corner. Simply ingenious!
-
-```
-```
-
 
 ### Landmarks
 Proud Mount Waterdeep provides a useful landmark for general orientation. It stands stark across the skyline to the west, its far slopes dropping right into the sea. A spur of the mountain juts inland, and atop the easternmost point of this spur stands Castle Waterdeep. If you can see these landmarks, it’s relatively easy to orient yourself. The mountain peak looms over the southern third of the city near the port in the south. The City of the Dead lies opposite the northern ridge of Mount Waterdeep, which descends down to the Field of Triumph, the city’s great coliseum.
 
 One of Waterdeep’s titanic walking statues, no longer mobile, offers another way to orient yourself on a local scale. At nine stories tall, twice the height of any buildings nearby, the Honorable Knight stands guard in a block of buildings between Snail Street and the Way of the Dragon. Positioned as it is nigh the place where four wards meet, you can use it to judge where you stand. If it is south and west of your position, you are in the Trades Ward. North and west? The Southern Ward. South and east? The Castle Ward. North and east? You’re in the Dock Ward.
 
->#### THE UNFLAPPABLE WATERDAVIAN
+>### THE UNFLAPPABLE WATERDAVIAN
+>
+>**Natives of the City of Splendors are notoriously slow to take offense.** A Waterdavian plainly states their feelings as a warning, so that one is apt to hear “I don’t find that amusing, friend,” said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance (“He was too stupid to realize I insulted him!”). For those who act on such misjudgments, however, surprise and regret are the usual results.
+>
+>**Most Waterdavians are also slow to take fright unless facing magic or monsters.** A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. “The only mortals that Waterdavians fear are a few unstable wizards and the Lords,” Durnan often says to those who are surprised by the nonchalance of the Yawning Portal’s regulars concerning the open entrance to Undermountain in their midst. “And only when they’ve incurred the wrath of said persons themselves.”
 
->Natives of the City of Splendors are notoriously slow to take offense. A Waterdavian plainly states their feelings as a warning, so that one is apt to hear “I don’t find that amusing, friend,” said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance (“He was too stupid to realize I insulted him!”). For those who act on such misjudgments, however, surprise and regret are the usual results.
-
->Most Waterdavians are also slow to take fright unless facing magic or monsters. A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. “The only mortals that Waterdavians fear are a few unstable wizards and the Lords,” Durnan often says to those who are surprised by the nonchalance of the Yawning Portal’s regulars concerning the open entrance to Undermountain in their midst. “And only when they’ve incurred the wrath of said persons themselves.”
-<div class='wide'>
-<img 
-  src='https://media-waterdeep.cursecdn.com/attachments/4/339/9005.png' 
-  style='width:520px'
-  width='full'/>
-</div>
 \page
 
-### Traffic Wardens
-During particularly heavy traffic and at congested areas such as the great oval road around the Market, you might see a member of the City Watch serving as a traffic warden. Traffic wardens signal with small blue hand flags for traffic to proceed, and with yellow flags for traffic to hold. A traffic warden can often be heard blowing a whistle. When you hear it, look to the warden to see if you are being signaled. Failure to take care might result not only in accident but also arrest.
+<div class='wide'>
+<img
+  src='https://media-waterdeep.cursecdn.com/attachments/4/339/9005.png'
+  style='width:600px'
+  width='full'/>
+</div>
+
+
 
 ### Drays
 These towering vehicles are, I believe, unique to Waterdeep. Invented by exiles from Lantan in the last century, a dray is a long, glassed-in carriage with bench seating that provides additional open-air bench seating on its roof. The driver sits at the level of the roof seating, providing a vantage point to see over other traffic and make eye contact with other dray drivers. You can enter this contraption through the back whenever it stops or slows down enough to make mounting the rear step safe.
