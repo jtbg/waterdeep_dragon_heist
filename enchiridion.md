@@ -14,7 +14,7 @@
 
 # Volo’s Waterdeep Enchiridion
 
-Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city — smiled over by none other than its Open Lord, Lady Laeral Silverhand. This chapbook will serve you well until my seminal work on the subject, _Volo’s Guide to Waterdeep_ — sadly long out of print, but now a tome prized by collectors — can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they’ll soon have copies of the new edition for sale!
+Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city — smiled over by none other than its Open Lord, Lady Laeral Silverhand. This chapbook will serve you well until my seminal work on the subject, _Volo’s Guide to Waterdeep_ — sadly long out of print, but now a tome prized by collectors — can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they’ll soon have copies of the new edition for sale! For now please see the wonderful Homebrewey to get another [PDF copy of this chapbook](https://homebrewery.naturalcrit.com/share/ByZ1wQltX).
 
 ## Entering Waterdeep
 Likely you have already arrived in Waterdeep and borne witness to some of its many wonders. But in case this pamphlet has found its way beneath your worthy eyes in anticipation of your visit, due to the commendable efforts of some friend or family member who loves you dearly, I shall explain briefly the circumstances of entry.
