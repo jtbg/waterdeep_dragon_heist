@@ -175,9 +175,6 @@ In times of trouble, direct taxes can also be imposed:
   src='https://media-waterdeep.cursecdn.com/attachments/4/338/9004.png'
   style='width:325px;margin:20px 0px 0px 0px' />
 
-<div class='pageNumber'>6</div>
-<div class='footnote'>PART 3 | SURVIVING IN THE CITY</div>
-
 
 ## Getting About
 Perambulating is the superior manner of experiencing the city and all its splendors. But if you’ve come with your own conveyance, the weather is inclement, or some other reason drives you to use the roads, the following are facts you need to know.
@@ -494,13 +491,11 @@ Tales of this legendary dungeon below Waterdeep are told well by many in the cit
 Beneath the plateau of Waterdeep lies the largest and deepest dungeon in the world. It sprawls out under the city, said to plunge as many as twenty levels deep. The Melairkyn dwarves first excavated the tunnels that would become Undermountain, and the drow are said to have dug their own tunnels up from below. All were claimed, altered, and expanded by the mad wizard Halaster and his apprentices — who are believed to dwell in the dungeons to this day. What drove them deep into the earth remains a mystery, but Undermountain’s allure is a siren song that still draws many. If you want to see adventurers descend into the depths, or perhaps glimpse some returning with wondrous treasures, visit the Yawning Portal in the Castle Ward.
 
 
-<div class='descriptive'>
 ### THE WONDERS OF THE WAYMOOT
 
 The place where the High Road and the Way of the Dragon meet in the south of the city is called the Waymoot. At the center of the crossroads, a high signpost stands with hanging arrows pointing toward the harbor and each of the city gates. Created by the Watchful Order of Magists and Protectors and funded by local merchants, the signpost magically directs travelers to well-known distant locations when the names of those locations are spoken into a crystal on the post. The magic of the Waymoot writes the destination onto the proper arrow of the signpost and indicates its distance from Waterdeep in miles. Folk are thereby sent out of the harbor or the appropriate gate leading north, east, or south, depending on their destination.
 
 Unfortunately for newcomers, the Waymoot is of no use whatsoever in finding locations within Waterdeep. You will, however, find a number of enterprising individuals near the crossroads who take advantage of this fact to offer their services as city guides. Though some reputable members of this cadre will guide you true for a fair fee, plenty of citizens with nothing to lose or gain by doing so will also readily set you on the right course if you’re simply polite.
-</div>
 
 
 # The City’s Splendors
