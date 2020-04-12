@@ -358,7 +358,7 @@ The liveliest, and perhaps the loveliest, part of the ward is the Cliffwatch. He
 The North Ward’s colors are green and orange, and its mascot is the gentle white dove, depicted in flight. Many North Ward homes have dovecotes on their roofs, and the great flocks of the birds that circle over the city at dawn and dusk are a delight to behold.
 
 
-#### Major Temples of Waterdeep<br><br>
+#### Major Temples of Waterdeep
 |Deity or Deities|Temple Name|Location|
 |:--|:-:|:-:|
 |All deities|Holyhands House|North Ward|
