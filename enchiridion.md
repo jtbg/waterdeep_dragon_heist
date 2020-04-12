@@ -655,8 +655,9 @@ The head of the Swordmaiden sits in a stand of tall trees in the center of the b
 </div>
 
 \page
->**INFAMOUS ALLEYS**
 
+>#### INFAMOUS ALLEYS
+>
 >Waterdeep has as many alleys as Baldur’s Gate has cats, and each has a name and a story. Here are a few that you might wish to see — or should know to avoid.<br>
 >_Ruid’s Stroll._ This short avenue from Caravan Court to the Trollwall in the Southern Ward is haunted by the hooded ghost of the mage Ruid, whose touch causes deathly chills to those he meets on foggy nights. All attempts to banish or turn the spirit have failed. Those who brave its unearthly approach and allow Ruid to pass through them learn a secret truth about someone or something in their life — if they survive.<br>
 _Brindul Alley._ This is the lair of the Hand that Sings, a magical phantasm of a hand with a mouth in its palm. The hand is said to snatch valuables it fancies — especially magical ones — when it encounters them, and to occasionally attack folk in the darkness, strangling them or tripping them into fatal falls. Most often, though, it takes no notice of those who don’t bother or follow it, eerily singing fragments of old Sword Coast ballads and love songs as it drifts through the night.<br>
