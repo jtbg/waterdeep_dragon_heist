@@ -32,13 +32,13 @@ The splendors that await you in Waterdeep are legendary. Each of the city’s wa
 
 # A Long History (in Brief)
 
-<br>
+
 
 >“There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.”  
 — _Ahghairon, the first Open Lord of Waterdeep,  
 circa 1032 DR_
 
-<br>
+
 
 People have inhabited the plateau upon which Waterdeep stands for longer than human histories record. But as is the way across the dangerous North, civilization at the foot of Mount Waterdeep has crested and ebbed in great waves. Elf scholars assure me that it was once the site of Aelinthaldaar, the capital of their ancient empire of Illefarn. So it was already a glorious place when a dwarf prospector named Melair discovered mithral beneath the mountain. In agreement with the Illefarni, Melair called kith and kin to mine under the mountain and in the plateau, and thus Clan Melairkyn came to rule below as the Illefarni did above.
 
@@ -202,7 +202,7 @@ Proud Mount Waterdeep provides a useful landmark for general orientation. It sta
 
 One of Waterdeep’s titanic walking statues, no longer mobile, offers another way to orient yourself on a local scale. At nine stories tall, twice the height of any buildings nearby, the Honorable Knight stands guard in a block of buildings between Snail Street and the Way of the Dragon. Positioned as it is nigh the place where four wards meet, you can use it to judge where you stand. If it is south and west of your position, you are in the Trades Ward. North and west? The Southern Ward. South and east? The Castle Ward. North and east? You’re in the Dock Ward.
 
-<br>
+
 
 >### THE UNFLAPPABLE WATERDAVIAN
 >
@@ -259,7 +259,7 @@ If you’re not certain whether someone is a noble, address the gentleman as “
 >
 >The city is also a haven for those who define for themselves what it means to be a man or a woman, those who transcend gender as the gods do, and those who redefine entirely who they are. What confidence! I never tire of witnessing it. I have seen folk in Waterdeep whose lives are more magical than the marvels possible with spells.
 
-<br>
+
 
 
 ### Nobles and Patronage
@@ -313,11 +313,11 @@ These shared stories and traditions impart to each ward a different culture, jus
 >##### “Sharpjaws,” “fastfists,” “bullyblades,” and “alleyblades”
 >Those who boast of martial skill but who shrink from violence or lack real ability are “sharpjaws.” In sharp contrast are Waterdeep’s “fastfists” (any lout easily provoked to violence), “bullyblades” (battle-hardened mercenaries hired as muscle), and “alleyblades” (muggers and thieves)
 >##### “Longride” and “Last ride”
->To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is “longride,” and dusk is “last ride.”<br><br>
+>To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is “longride,” and dusk is “last ride.”<br>
 >##### “Which the greater thief?”
->Tuezaera Hallowhand was a famous “lone cat” thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: “I take things. You take freedom with your spells. Which of us is the greater thief?” Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.<br><br>
+>Tuezaera Hallowhand was a famous “lone cat” thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: “I take things. You take freedom with your spells. Which of us is the greater thief?” Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.<br>
 >##### “Doth thy mirror crack?” or “Hurl but think not?” or “Take but not count cost? Be nothing, then!”
->Laeral Silverhand, then the Lady Mage of Waterdeep when she was married to Khelben “Blackstaff” Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: “If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?”<br>
+>Laeral Silverhand, then the Lady Mage of Waterdeep when she was married to Khelben “Blackstaff” Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: “If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?”<br><br>
 >These scornful words are remembered and used almost daily in Waterdeep even a century later.
 
 
@@ -343,7 +343,6 @@ I hesitate to mention a last location in the Sea Ward, and I will not reveal whe
 <img
   src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/341/850/558/9007.png'
   style='width:325px;margin:10px 0px 0px 0px' />  
-
 _Swift Justice_
 
 
@@ -360,7 +359,6 @@ The North Ward’s colors are green and orange, and its mascot is the gentle whi
 
 
 #### Major Temples of Waterdeep<br><br>
-
 |Deity or Deities|Temple Name|Location|
 |:--|:-:|:-:|
 |All deities|Holyhands House|North Ward|
@@ -394,7 +392,7 @@ Though not quite as large as the castle, the palace is far more comfortable and 
 
 _The stately, clean, and well-defended Castle Ward_
 
-<br>
+
 
 
 Many other buildings in the ward are given over to city business, including several courts for magisters and the barracks of the City Guard. So many of the ward’s structures are offices and meeting halls for business owners, solicitors, publishers, and the like that the Castle Ward has the smallest resident population of all the wards.
@@ -530,7 +528,7 @@ Riders of the Griffon Cavalry are trained to stay above the rooftops, not becaus
 
 _Griffon Cavalry on Patrol_
 
-<br>
+
 
 
 ## The Walking Statues
@@ -585,15 +583,13 @@ _The God Catcher looking on in the background_
 
 >#### INFAMOUS ALLEYS
 >
->Waterdeep has as many alleys as Baldur’s Gate has cats, and each has a name and a story. Here are a few that you might wish to see — or should know to avoid.<br>
->_Ruid’s Stroll._ This short avenue from Caravan Court to the Trollwall in the Southern Ward is haunted by the hooded ghost of the mage Ruid, whose touch causes deathly chills to those he meets on foggy nights. All attempts to banish or turn the spirit have failed. Those who brave its unearthly approach and allow Ruid to pass through them learn a secret truth about someone or something in their life — if they survive.<br>
-_Brindul Alley._ This is the lair of the Hand that Sings, a magical phantasm of a hand with a mouth in its palm. The hand is said to snatch valuables it fancies — especially magical ones — when it encounters them, and to occasionally attack folk in the darkness, strangling them or tripping them into fatal falls. Most often, though, it takes no notice of those who don’t bother or follow it, eerily singing fragments of old Sword Coast ballads and love songs as it drifts through the night.<br>
-_Manycats Alley._ This passage crosses two city blocks and winds through the interior of a third, running between and (for the most part) parallel to Julthoon Street and Traders’ Way in the North Ward. It is, unsurprisingly, home to many cats that feed on scraps from the surrounding butchers’ shops, but it is also known for the many carved stone heads of people and animals that adorn the alley’s buildings. Individuals who have walked the alley alone report that some of the heads whispered cryptic messages to them.<br>
-_Gondwatch Lane._ Found at the southern entrance to the House of Inspired Hands in the Sea Ward, this alley serves as the testing ground for inventions considered too dangerous to operate inside the temple. The locals are generally unconcerned about the risks though, and stand watching while food vendors circulate.<br>
-_Pharra’s Alley._ This alley in the Sea Ward is named after the first leader of the House of Wonder, but is more infamous for its Circle of Skulls. This infrequent and unpredictable haunting takes the form of seven floating skulls, which hover in a circle and argue with one another in whispered tones about events in the city. If they are interrupted, their reaction reportedly varies from being helpful to engaging in murderous spell-slinging.<br>
+>Waterdeep has as many alleys as Baldur’s Gate has cats, and each has a name and a story. Here are a few that you might wish to see — or should know to avoid.<br><br>
+>_Ruid’s Stroll._ This short avenue from Caravan Court to the Trollwall in the Southern Ward is haunted by the hooded ghost of the mage Ruid, whose touch causes deathly chills to those he meets on foggy nights. All attempts to banish or turn the spirit have failed. Those who brave its unearthly approach and allow Ruid to pass through them learn a secret truth about someone or something in their life — if they survive.<br><br>
+_Brindul Alley._ This is the lair of the Hand that Sings, a magical phantasm of a hand with a mouth in its palm. The hand is said to snatch valuables it fancies — especially magical ones — when it encounters them, and to occasionally attack folk in the darkness, strangling them or tripping them into fatal falls. Most often, though, it takes no notice of those who don’t bother or follow it, eerily singing fragments of old Sword Coast ballads and love songs as it drifts through the night.<br><br>
+_Manycats Alley._ This passage crosses two city blocks and winds through the interior of a third, running between and (for the most part) parallel to Julthoon Street and Traders’ Way in the North Ward. It is, unsurprisingly, home to many cats that feed on scraps from the surrounding butchers’ shops, but it is also known for the many carved stone heads of people and animals that adorn the alley’s buildings. Individuals who have walked the alley alone report that some of the heads whispered cryptic messages to them.<br><br>
+_Gondwatch Lane._ Found at the southern entrance to the House of Inspired Hands in the Sea Ward, this alley serves as the testing ground for inventions considered too dangerous to operate inside the temple. The locals are generally unconcerned about the risks though, and stand watching while food vendors circulate.<br><br>
+_Pharra’s Alley._ This alley in the Sea Ward is named after the first leader of the House of Wonder, but is more infamous for its Circle of Skulls. This infrequent and unpredictable haunting takes the form of seven floating skulls, which hover in a circle and argue with one another in whispered tones about events in the city. If they are interrupted, their reaction reportedly varies from being helpful to engaging in murderous spell-slinging.<br><br>
 _Three Daggers Alley._ This alley in the Dock Ward suffers from a magical curse that causes three daggers to appear out of thin air and attack passersby. The daggers swoop and fly about, making multiple attempts at murder before vanishing again. This magical effect, the result of a spell cast by a long-dead wizard, has resisted all attempts to dispel it. Some locals boast of how many times they’ve crossed the alley and lived to tell of it, but the appearance of the daggers is entirely a matter of chance, and unpredictable. So take my advice and don’t test Tymora’s favor.
-
-<br>
 
 
 ### City Celebrations
