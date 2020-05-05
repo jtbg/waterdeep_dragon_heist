@@ -1,6 +1,10 @@
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
+  .phb{
+    width : 215.9mm;
+    height : 279.4mm;
+  }
 </style>
 <div class='wide'>
 <img
